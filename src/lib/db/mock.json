@@ -1,0 +1,124 @@
+{
+    "cuisines": [
+      {
+        "food_type": "Pizza",
+        "origin": "Italy 🇮🇹",
+        "vegan": false,
+        "icon": "🍕"
+      },
+      {
+        "food_type": "Hamburger",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🍔"
+      },
+      {
+        "food_type": "Sushi",
+        "origin": "Japan 🇯🇵",
+        "vegan": false,
+        "icon": "🍣"
+      },
+      {
+        "food_type": "Falafel",
+        "origin": "MENA 🌍",
+        "vegan": true,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Shawarma",
+        "origin": "MENA 🌍",
+        "vegan": false,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Tabbouleh",
+        "origin": "MENA 🌍",
+        "vegan": true,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Kebab",
+        "origin": "MENA 🌍",
+        "vegan": false,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Baklava",
+        "origin": "MENA 🌍",
+        "vegan": false,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Pasta",
+        "origin": "Italy 🇮🇹",
+        "vegan": true,
+        "icon": "🍝"
+      },
+      {
+        "food_type": "Lasagna",
+        "origin": "Italy 🇮🇹",
+        "vegan": false,
+        "icon": "🍝"
+      },
+      {
+        "food_type": "Risotto",
+        "origin": "Italy 🇮🇹",
+        "vegan": false,
+        "icon": "🍝"
+      },
+      {
+        "food_type": "Gelato",
+        "origin": "Italy 🇮🇹",
+        "vegan": false,
+        "icon": "🍦"
+      },
+      {
+        "food_type": "Taco",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🌮"
+      },
+      {
+        "food_type": "Barbecue",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🍖"
+      },
+      {
+        "food_type": "Clam Chowder",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🍲"
+      },
+      {
+        "food_type": "Baba Ganoush",
+        "origin": "MENA 🌍",
+        "vegan": true,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Philly Cheesesteak",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🥪"
+      },
+      {
+        "food_type": "Carbonara",
+        "origin": "Italy 🇮🇹",
+        "vegan": false,
+        "icon": "🍝"
+      },
+      {
+        "food_type": "Hummus",
+        "origin": "MENA 🌍",
+        "vegan": true,
+        "icon": "🥙"
+      },
+      {
+        "food_type": "Hot Dog",
+        "origin": "USA 🇺🇸",
+        "vegan": false,
+        "icon": "🌭"
+      }
+    ]
+  }
